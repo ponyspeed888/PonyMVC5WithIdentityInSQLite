@@ -20,7 +20,7 @@ WHO might find this project useful ?
 
 Those who need to create asp.net core app with individual account often (for study or testing)
 
-The only explanation that is needed is that in order to allow any password, these files taken from identity scalfolding and updated with project namespace
+The only explanation that is needed is that in order to allow unrestricted password , these files are copied from identity scalfolding and updated with project namespace
 
 Register.cshtml
 Register.cshtml.cs
